@@ -1247,16 +1247,22 @@ animation-name: slidein;
 }
 
 #fall{
-  margin-top: 250px;
+  margin-top: 180px;
 }
 
-#withme{
-  margin-top: 250px;
+#invit{
+  margin-top: 220px;
+  margin-bottom: 50px;
 }
 
 #verse{
-  margin-top: 400px;
+  margin-top: 0px;
 }
+
+#verse2{
+  margin-top: 10px;
+}
+
 
 #hand{
   margin-top: 50px;
